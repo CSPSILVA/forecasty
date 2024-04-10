@@ -1,0 +1,65 @@
+/* Styles for the forecast form container */
+.forecast-col {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styles for each input group */
+  .info {
+    margin-bottom: 15px;
+  }
+  
+  .info label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .info input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box; /* Ensures padding does not affect overall width */
+  }
+  
+  
+  
+  /* Styles for the predictions section */
+  .predicts {
+    margin-top: 20px;
+  }
+  
+  .predicts h2 {
+    margin-bottom: 10px;
+  }
+  
+  .predicts ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .predicts li {
+    padding: 8px;
+    background-color: #eee;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    border-radius: 4px;
+  }
+  
+  /* Styles for the chart container */
+  .pattern {
+    margin-top: 20px;
+  }
+  
+  .pattern h3 {
+    margin-bottom: 10px;
+  }
+  
+  /* Line Chart specific adjustments could go here if needed */
+  

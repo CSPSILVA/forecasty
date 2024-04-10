@@ -1,0 +1,23 @@
+.programs{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+}
+.program-item{
+    flex: 1;
+    margin: 10px;
+}
+.program-item img{
+    width: 75px;
+    margin-bottom: 10px;
+}
+.program-item h3{
+    color: #0277bd;
+    margin-bottom: 5px;
+}
+.program-item p{
+    color: #666;
+    font-size: 1.0em;
+}
